@@ -1,2 +1,2 @@
-def arvrg(arr:list[int])->float:
-    return sum(arr)/len(arr)
+def ar(x,y):
+    return x**y
